@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Help MySQL</string>
+    <string name="insert">insert</string>
+    <string name="find">find</string>
+    <string name="_name">Enter Name</string>
+    <string name="_company_name">Enter Company Name</string>
+    <string name="_salary">Enter Salary</string>
+    <string name="_cancel">Cancel</string>
+    <string name="_insert_done">Insert</string>
+</resources>
